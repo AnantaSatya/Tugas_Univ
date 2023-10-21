@@ -1,4 +1,4 @@
-public class Looping {
+public class LoopingDalamLooping {
     public static void main(String[] args) {
         int n = 3; // Jumlah baris dalam pola
         int startValue = 1; // Nilai awal
